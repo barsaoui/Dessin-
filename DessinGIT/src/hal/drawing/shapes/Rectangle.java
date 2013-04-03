@@ -11,7 +11,7 @@ package hal.drawing.shapes;
 public class Rectangle extends Shape {
 	/** Coordonnées du coin supérieur gauche */
 	private Point upLeft;
-
+	private int taille;
 	/** Coordonnées du coin inférieur droit */
 	private Point downRight;
 
